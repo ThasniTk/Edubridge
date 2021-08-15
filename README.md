@@ -10,11 +10,8 @@ Projects
 ### Tools Used:
 
 Anaconda
-
 R Studio
-
 Mongo DB
-
 Tableau Desktop
 
 ### Assignments:
