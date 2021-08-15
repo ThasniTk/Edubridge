@@ -5,7 +5,7 @@ This repository contains all the assignment and project I learned during the cou
 
 
 
-### Contents:
+## Contents:
 
 Assignments
 
@@ -14,7 +14,7 @@ Projects
 
 
 
-### Tools Used:
+## Tools Used:
 
 Anaconda
 
@@ -27,14 +27,14 @@ Tableau Desktop
 
 
 
-### Assignments:
+## Assignments:
 
 In this folder, I have uploaded all the day-to-day  assignments  and practice materials.
 
 
 
 
-### Projects:
+## Projects:
 
 After each milestones, we have been given minor projects. in order to improve our understanding of data analytics and codings skills.  All such projects files are uploaded here
 
